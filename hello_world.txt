@@ -1,1 +1,2 @@
 Testing by writing some random stuff in here
+Testing the new commit thing
